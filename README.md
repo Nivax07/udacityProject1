@@ -1,4 +1,4 @@
-# Udacity Front-end Nonodegree - Project 1
+# Udacity Front-end Nanodegree - Project 1
 ## Animal Trading Card
 This project is the first project of the Udacity Front-end Nanodegree Program.
 
